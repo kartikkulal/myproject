@@ -62,3 +62,4 @@ y = float(input("enter the number2: "))
 
 print(x>=y)  #gives boolean value
 print("hello wolrd")
+print("hello world")
